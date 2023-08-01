@@ -12,3 +12,9 @@ Check it out over here: https://www.pygame.org/news
 ```python main.py```
 
 ### That's it. Enjoy ;)
+
+## Update:
+
+I ran a development build of the game and uploaded a directly executable *_main.exe_* file :)
+
+### Have Fun!
