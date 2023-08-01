@@ -20,7 +20,6 @@ pygame.display.update()
 clock = pygame.time.Clock()
 font = pygame.font.SysFont(None, 55)
 
-
 def text_screen(text, color, x, y):
     screen_text = font.render(text, True, color)
     gameWindow.blit(screen_text, [x,y])
